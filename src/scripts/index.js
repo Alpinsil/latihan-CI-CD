@@ -16,6 +16,8 @@ window.addEventListener('hashchange', () => {
   app.renderPage();
 });
 
+// test
+
 window.addEventListener('load', () => {
   app.renderPage();
   swRegister();
